@@ -1,6 +1,7 @@
 # swagforall
 
 Site annuaire de plateforme de vente en ligne d'objet relatif au jeu ingress.
+- Utilise Bootstrap
 
 ## Index
 
